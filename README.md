@@ -26,3 +26,46 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajvamja007&show_icons=true&locale=en" alt="rajvamja007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajvamja007&" alt="rajvamja007" /></p>
+
+
+# Astonish SelfCare Ecommerce Site
+Welcome to Astonish SelfCare Ecommerce Site! This is a simple ecommerce platform developed using ASP.NET C# WebForms. The platform specializes in offering self-care products to users, providing a convenient shopping experience. Additionally, it features both client and admin panels for efficient management and control.
+
+## Features
+### Client Panel:
+
+Browse through a wide range of self-care products.<br>
+Add products to the shopping cart and wishlist.<br>
+Proceed to checkout for secure transactions.<br>
+View order history and track order status.
+### Admin Panel:
+
+Manage product inventory, including adding, editing, and deleting products.<br>
+Monitor and fulfill orders placed by clients.<br>
+Control user accounts and permissions.
+## Technologies Used
+ASP.NET C# WebForms<br>
+HTML/CSS/JavaScript<br>
+SQL Server (for database management)<br>
+Entity Framework (for database interaction)
+## Getting Started
+To set up the project locally, follow these steps:
+
+#### 1.Clone the repository:
+
+#### 2.Open the solution:
+Open the project solution file (AstonishSelfCare.sln) in Visual Studio.
+
+#### 3.Build and Run:
+
+Build the solution in Visual Studio.<br>
+Start debugging or run the project to launch the Astonish SelfCare site.
+#### 4.Explore:
+Access the client panel to browse and shop for self-care products.<br>
+Log in to the admin panel (credentials provided in the documentation) to manage products, orders, and users.<br>
+To open admin pannel use:<br>
+Email : vamjaraj2004@gmail.com<br>
+Password : 123<br>
+Note : You can able to change admin by chaging the 'user_type' from the user_tbl
+## Note
+This site only for the study purpose.
